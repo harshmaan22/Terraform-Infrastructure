@@ -1,7 +1,7 @@
 # all variables here including names of resource group , appservice and appserviceplan
 # name and location of resource group
 variable "rg_name" {
-  default = "rg-dev-vm-infra"
+  default = "rg-dev-vm-infra-001"
 }
 variable "rg_region" {
     default = "uaenorth"
